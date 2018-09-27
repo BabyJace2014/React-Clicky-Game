@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://babyjace2014.github.io/react-clicky-game/",
   "dependencies": {
-    "gh-pages": "^2.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
@@ -16,5 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
   }
 }
